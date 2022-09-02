@@ -1,0 +1,78 @@
+[
+    {
+        "step": 1,
+        "narration": "Determining soil contamination is traditionally done by taking soil core samples and sending them to a lab for analysis."
+    },
+    {
+        "step": 2,
+        "narration": "Soil samples are single point-in-time measurements that require taking a sample back to a lab for expensive time-consuming analysis."
+    },
+    {
+        "step": 3,
+        "narration": "Because of time and money costs, these are often rare events done yearly resulting in few data points for analysis.        "
+    },
+    {
+        "step": 4,
+        "narration": "These yearly point-in-time estimates are what is used to make important decisions such as closing a site down or allowing it to keep operating        "
+    },
+    {
+        "step": 5,
+        "narration": "However, these single point-in-time estimates are notorious for being noisy and often unreliable as they tend to be highly variable. Citations of papers for unreliability here"
+    },
+    {
+        "step": 6,
+        "narration": "Overaly images of the titles/abstracts of multiple papers here        "
+    },
+    {
+        "step": 7,
+        "narration": "A year is also a long time to find out if action needs to be taken, or to evaluate if the actions taken are actually working."
+    },
+    {
+        "step": 8,
+        "narration": "[insert *crickets* or “time is money” or leave blank]        "
+    },
+    {
+        "step": 9,
+        "narration": "Any one of these points could have been what was measured from the sample taken that day...        "
+    },
+    {
+        "step": 10,
+        "narration": "Missing this variability could lead to different conclusions that result from small sample sizes...        "
+    },
+    {
+        "step": 11,
+        "narration": "Variability in soil samples arise from a variety of seasonal and other environmental factors that impact a scientists ability measure contamination accurately and precisely."
+    },
+    {
+        "step": 12,
+        "narration": "Fluctuations in measurements are sometimes real but are usually due to fluctuations in correlated variables such as temperature and pressure.        "
+    },
+    {
+        "step": 13,
+        "narration": "EMS has developed cheap sensors that measure gas concentrations, and their confounding variables, without requiring samples to be taken from the ground and delivered to a lab.         "
+    },
+    {
+        "step": 14,
+        "narration": "The sensors take measurements every 30 minutes, resulting in a much higher resolution dataset that is essentially real-time compared to the current industry standard.        "
+    },
+    {
+        "step": 15,
+        "narration": "EMS sensors are able to quantify the variability of gas measurements to compute the correct trend and to detect the trend on the order of months or weeks opposed to years.        "
+    },
+    {
+        "step": 16,
+        "narration": "EMS is able to install multiple sensors for less money than traditional soil core sampling, while also continuously collecting more data points than would be possible by taking soil core samples. This enables real-time reporting that can be checked anytime opposed to waiting for lab results.        "
+    },
+    {
+        "step": 17,
+        "narration": "EMS has collected ____ points from ___ sensors across ___ sites, and is on track to increase these numbers tenfold by 2026.        "
+    },
+    {
+        "step": 18,
+        "narration": "The large amount of data gathered by EMS sensors not only improves measurement accuracy but enables predictive modelling to better inform remediation decisions and to improve ESG...        "
+    },
+    {
+        "step": 19,
+        "narration": "EMS is disrupting the remediation space by bringing beneath the surface soil analysis into the big data era. Stakeholders are able to analyse their site in ways that were not possible before...        "
+    }
+]
